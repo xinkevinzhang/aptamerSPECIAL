@@ -1,0 +1,21 @@
+Aptamer Structure Analysis Report
+================================
+
+Total sequences analyzed: 9000
+Structure types distribution:
+label
+random        3000
+quadruplex    2000
+pseudoknot    2000
+triplex       2000
+
+Feature statistics:
+       length   base_pairs  hairpins   complexity  paired_ratio  gc_content
+count  9000.0  9000.000000    9000.0  9000.000000   9000.000000      9000.0
+mean     40.0    19.190000       0.0     0.074728      0.479750         0.0
+std       0.0     5.092882       0.0     0.003679      0.127322         0.0
+min      40.0     0.000000       0.0     0.025000      0.000000         0.0
+25%      40.0    16.000000       0.0     0.075000      0.400000         0.0
+50%      40.0    20.000000       0.0     0.075000      0.500000         0.0
+75%      40.0    22.000000       0.0     0.075000      0.550000         0.0
+max      40.0    32.000000       0.0     0.075000      0.800000         0.0

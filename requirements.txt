@@ -1,0 +1,5 @@
+numpy
+pandas
+scikit-learn
+python-Levenshtein
+umap-learn==0.5.3
